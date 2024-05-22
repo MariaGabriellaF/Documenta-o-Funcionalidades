@@ -1,14 +1,14 @@
 # Funcionalidades disponíveis no Universi.me
 O Universi.me é uma rede social voltada para empresas, universidades e escolas, onde é possível criar grupos específicos com membros da organização. Com esses grupos formados, os administradores podem criar pastas de conteúdo para formação, palestras, informativos, processos de onboarding, entre outros. Dessa forma, a organização consegue definir os conteúdos que cada pessoa precisa estudar. Além disso, os usuários podem registrar suas competências e níveis de proficiência, facilitando a seleção de pessoas de acordo com as necessidades da organização.
 
-
-**Funcionalidades:**
+*******
+**Principais funcionalidades:**
 * Gestão de usuários
 * Configurações gerais
 * Gestão de conteúdos
 * Currículos dos usuários
 * Competências dos usuários
-
+*******
 
 ## Gestão de usuários:
 ### Nessa funcionalidade só perfis administradores podem ter acesso. 
@@ -19,6 +19,7 @@ O Universi.me é uma rede social voltada para empresas, universidades e escolas,
 ## Configurações gerais
 ### Nessa funcionalidade só perfis administradores podem ter acesso.
 #### O que pode ser feito:
+
 - Configurar as variáveis ambiente da plataforma;
 - Configurar e-mails que podem ser cadastrados no Universi.me;
 - Configurar e validar competências cadastradas na plataforma;
@@ -41,16 +42,20 @@ O Universi.me é uma rede social voltada para empresas, universidades e escolas,
 
 ## Currículos dos usuários
 ### Qualquer usuário pode ter acesso.
+#### O que pode ser feito:
 - Adicionar formações acadêmicas no perfil (Instituição e Tipo de Formação, Data);
 - Adicionar experiências em meu perfil (Tipo de Experiência, Descrição, Local, Data);
 
 ## Competências dos usuários
 ### Qualquer usuário pode ter acesso.
+#### O que pode ser feito:
 - Gerenciar competência com nível de experiência em seu perfil;
 - Busca avançada de perfis por competências em grupos;
 - Estatísticas de competências em grupos;
+  (onde é possível visualizar um gráfico com a porcentagem de cada uma das competências daquele grupo) ![codata 1](https://github.com/MariaGabriellaF/Documenta-o-Funcionalidades/assets/139475716/1f71418e-d57d-41e8-9307-8b7c1a8ba516)
+
 - Visualizar o perfil de outro usuário
-    - Onde é possível visualizar os grupos, currículos e conteúdos.
+  (Onde é possível visualizar os grupos, currículos e conteúdos)
 
 
 
