@@ -52,10 +52,9 @@ O Universi.me é uma rede social voltada para empresas, universidades e escolas,
 - Gerenciar competência com nível de experiência em seu perfil;
 - Busca avançada de perfis por competências em grupos;
 - Estatísticas de competências em grupos;
-  (onde é possível visualizar um gráfico com a porcentagem de cada uma das competências daquele grupo) ![codata 1](https://github.com/MariaGabriellaF/Documenta-o-Funcionalidades/assets/139475716/1f71418e-d57d-41e8-9307-8b7c1a8ba516)
-
+  (Onde é possível visualizar um gráfico com a porcentagem de cada uma das competências daquele grupo);
 - Visualizar o perfil de outro usuário
-  (Onde é possível visualizar os grupos, currículos e conteúdos)
+  (Onde é possível visualizar os grupos, currículos e conteúdos).
 
 
 
